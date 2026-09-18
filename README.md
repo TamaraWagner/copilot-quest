@@ -1,2 +1,6 @@
-# copilot-quest
-Ein interaktives Lernspiel für Microsoft Copilot mit Projekt-, Kommunikations- und Entscheidungssituationen aus dem Arbeitsalltag.
+# Copilot Quest
+
+Interaktives Lernspiel für Microsoft Copilot.
+
+▶ Spiel starten:
+https://tamarawagner.github.io/copilot-quest/
